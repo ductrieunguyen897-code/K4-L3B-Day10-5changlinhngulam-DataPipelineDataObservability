@@ -11,8 +11,8 @@
 | STT | Họ và tên | MSSV | Email | Vai trò & Phân công công việc | Báo cáo cá nhân |
 |---:|---|---|---|---|---|
 | 1 | Đinh Lệnh Tiến Anh | 2A202602928 | dinhlenhtienanh.forwork@gmail.com | Data ingestion & cleaning owner (`src/ingestion/crossref.py`, `src/ingestion/cleaning.py`) | `report/individual_2A202602928_DinhLenhTienAnh.md` |
-| 2 | Nguyễn Đức Triệu | 2A202602978 | | Evaluation & observability owner (`src/evaluation/testset.py`, `src/observability/quality.py`, `src/observability/reporting.py`) | `report/individual_2A202602978_NguyenDucTrieu.md` |
-| 3 | Vũ Hải Minh | 2A202602452 | | Corruption & integration owner (`src/ingestion/corruption.py`, `src/pipelines/phase1.py`, `src/pipelines/corruption_flow.py`) | `report/individual_2A202602452_VuHaiMinh.md` |
+| 2 | Nguyễn Đức Triệu | 2A202602978 | ductrieunguyen897@gmail.com | Evaluation & observability owner (`src/evaluation/testset.py`, `src/observability/quality.py`, `src/observability/reporting.py`) | `report/individual_2A202602978_NguyenDucTrieu.md` |
+| 3 | Vũ Hải Minh | 2A202602452 | vhaiminh.2k5@gmail.com | Corruption & integration owner (`src/ingestion/corruption.py`, `src/pipelines/phase1.py`, `src/pipelines/corruption_flow.py`) | `report/individual_2A202602452_VuHaiMinh.md` |
 
 ---
 

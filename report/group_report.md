@@ -4,7 +4,7 @@
 
 | Thông tin         | Nội dung                  |
 | ------------------ | -------------------------- |
-| Khóa/Lớp         | K4 - Lớp B (Ca Sáng)     |
+| Khóa/Lớp         | K4 - L3B    |
 | Tên nhóm         | 5changlinhngulam            |
 | Repository         | https://github.com/ductrieunguyen897-code/K4-L3B-Day10-5changlinhngulam-DataPipelineDataObservability |
 | Ngày hoàn thành | 2026-09-26                  |

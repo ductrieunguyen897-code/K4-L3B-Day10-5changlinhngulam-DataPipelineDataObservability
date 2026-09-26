@@ -6,7 +6,7 @@
 | ------------------ | -------------------------- |
 | Họ và tên       | Đinh Lệnh Tiến Anh |
 | MSSV               | 2A202602928 |
-| Khóa/Lớp         | K4 - Lớp B (Ca Sáng) |
+| Khóa/Lớp         | K4 - L3B|
 | Tên nhóm         | 5changlinhngulam |
 | Vai trò chính    | Data ingestion & cleaning owner |
 | Repository         | https://github.com/ductrieunguyen897-code/K4-L3B-Day10-5changlinhngulam-DataPipelineDataObservability |

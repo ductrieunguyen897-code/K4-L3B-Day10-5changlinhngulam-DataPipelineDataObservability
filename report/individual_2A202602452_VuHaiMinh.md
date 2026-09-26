@@ -6,7 +6,7 @@
 | ------------------ | -------------------------- |
 | Họ và tên       | Vũ Hải Minh |
 | MSSV               | 2A202602452 |
-| Khóa/Lớp         | K4 - Lớp B (Ca Sáng) |
+| Khóa/Lớp         | K4 - L3B |
 | Tên nhóm         | 5changlinhngulam |
 | Vai trò chính    | Corruption & integration owner |
 | Repository         | https://github.com/ductrieunguyen897-code/K4-L3B-Day10-5changlinhngulam-DataPipelineDataObservability |
